@@ -35,12 +35,7 @@
 20. Fuel the Hyperdrive
 21. Warp to Another System
 
-## Section 5
-22. Follow Starship Automatic Guidance
-
-## Section 6    
-23. Locate your Benefactor
-    > Launches: [Base Computer Archives](SideQuests.md#base-computer-archives)
+> Launches: [Alone Amidst the Stars](AloneAmidsttheStars.md)
 
 
 
