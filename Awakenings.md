@@ -34,8 +34,12 @@
 19. Craft a Warp Cell: Antimatter
 20. Fuel the Hyperdrive
 21. Warp to Another System
-
 > Launches: [Alone Amidst the Stars](AloneAmidsttheStars.md)
+> Launches: [The Atlas Path](TheAtlasPath.md)
+> Launches: [Freighter Command](FreighterCommand.md)
+> Launches: [Under A Rebel Star](UnderARebelStar.md)
+> Launches: [Collecting Fossils](CollectingFossils.md)
+
 
 
 
